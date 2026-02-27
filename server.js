@@ -5,7 +5,7 @@ const PORT = 5000;
 
 app.get("/", (req, res) => {
   res.json({
-    message: "Dockerized Node App 🚀",
+    message: "Dockerized Node App l",
     author: "Abhishek",
   });
 });
